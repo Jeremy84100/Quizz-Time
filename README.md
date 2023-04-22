@@ -6,7 +6,7 @@ This Quizz site is designed to allow users to test their knowledge in different 
 
 ## Installation
 
-1. Clone the repo: `git clone https://github.com/your-username/Quizz-Time.git`
+1. Clone the repo: `git clone https://github.com/Jeremy84100/Quizz-Time.git`
 2. Install dependencies: `npm install`
 
 ## Usage
@@ -31,7 +31,7 @@ This Quizz site is designed to allow users to test their knowledge in different 
 ## Authors
 
 - BOURRET Jérémy
-- bourretjeremy8@gmai.com
+- bourretjeremy8@gmail.com
 
 ## License
 
