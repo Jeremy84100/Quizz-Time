@@ -89,8 +89,11 @@ const Play = ({
             </h2>
           </>
         )}
+        {questions.length === 0 && !gameOver && (
+          <h1 className="text-white text-2xl m-12 font-medium">No questions available</h1>
+        )}
       </div>
-
+  
       {questions.length > 0 && !gameOver && (
         <Question question={questions[index]} handleAnswer={handleAnswer} />
       )}
