@@ -23,6 +23,7 @@ This Quizz site is designed to allow users to test their knowledge in different 
 ## Technologies Used
 
 - [`React`](https://reactjs.org/): a JavaScript library for building user interfaces.
+- [`TypeScript`](https://www.typescriptlang.org/): a cloud deployment platform for web projects.
 - [`Tailwind`](https://tailwindcss.com/): a CSS framework for building custom user interfaces.
 - [`react-router-dom`](https://reactrouter.com/web/guides/quick-start): a routing library for React applications.
 - [`entities`](https://www.npmjs.com/package/entities): a JavaScript library for encoding and decoding HTML and XML entities.
