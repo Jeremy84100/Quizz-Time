@@ -1,4 +1,4 @@
-## Quizz Time
+# Quizz Time
 
 ## Description
 
