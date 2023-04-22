@@ -33,7 +33,3 @@ This Quizz site is designed to allow users to test their knowledge in different 
 
 - BOURRET Jérémy
 - bourretjeremy8@gmail.com
-
-## License
-
-This project is licensed under the MIT License. Please see the `LICENSE` file for more information.
